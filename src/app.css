@@ -1,0 +1,34 @@
+.clock-div{
+	font-size: 25px;
+	color: blue;
+}
+
+.left-time{
+	background-color: mediumseagreen;
+	margin-right: ;
+}
+
+.interior-block{
+	display:inline;
+	color: white;
+}
+
+.time-block{
+	background-color:black;
+	margin-left:20%;
+	margin-right:20%;
+	padding: 0px 2%;
+}
+
+.input-tag{
+	border: black 1px solid;
+}
+
+.submit{
+	background-color: tomato;
+}
+
+.input-name{
+	color: black;
+	font-size: 18px;
+}
